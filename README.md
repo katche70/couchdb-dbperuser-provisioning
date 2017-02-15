@@ -34,7 +34,7 @@ The daemon performs the following steps and returns information about the create
 ## Installation
 
 1. `git clone https://github.com/katche70/couchdb-dbperuser-provisioning.git`
-1. `cd couchdb-peruser-provisioning`
+1. `cd cd couchdb-dbperuser-provisioning`
 1. `npm install -g`
 
 
