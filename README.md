@@ -50,6 +50,8 @@ contents:
     namespace = com.example.myapp
     add_namespace_to_dbname = true
     db_name_format = ns_user
+    db_name_append_guid = true
+    cors_support = true
     port = 8100
     
     [os_daemons]
